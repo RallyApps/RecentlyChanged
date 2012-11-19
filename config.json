@@ -1,0 +1,12 @@
+{
+    "name": "RecentlyChanged",
+    "className": "CustomApp",
+    "server": "https://rally1.rallydev.com",
+    "sdk": "1.32",
+    "javascript": [
+        "RecentlyChanged.js"
+    ],
+    "css": [
+        "RecentlyChanged.css"
+    ]
+}

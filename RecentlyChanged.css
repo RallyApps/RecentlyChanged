@@ -1,0 +1,36 @@
+#defects {
+    display: inline;
+    float: right;
+    padding-top: 10px;
+    width: 49%;
+}
+
+#stories {
+    display: inline;
+    float: left;
+    padding-top: 10px;
+    width: 49%;
+}
+
+#lastWorkDay {
+    font-size: 12px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.tableLabel,
+#totalLabel {
+    clear: both;
+    display: inline;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#tableDiv {
+    clear: both;
+    padding-bottom: 10px;
+}
+
+#totalLabel {
+    float: right;
+}
