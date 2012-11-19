@@ -5,7 +5,7 @@ Rally Iteration Scope Change
 
 ## Overview
 
-The Recently Changed App displays tasks, stories, and defects that were modified as of the last work date. This app displays the most recent 200 items in each area: tasks, user stories, and defects.
+The Recently Changed App displays tasks, stories, and defects that were modified as of the last work date.
 
 ## How to Use
 
@@ -17,7 +17,7 @@ Or you can just click [here](https://raw.github.com/RallyApps/RecentlyChanged/ma
 
 ### Using the App
 
-You can click on the column headers to sort stories in ascending or descending order. You can also click on the item number link to take you to the detail page of the user story, defect, or task item. The item limit is 200 for each type of item: user stories, defects, and tasks.
+You can click on the column headers to sort stories in ascending or descending order. You can also click on the item number link to take you to the detail page of the user story, defect, or task item. This app displays the most recent 200 items in each area: tasks, user stories, and defects.
 
 ## Customize this App
 
