@@ -1,5 +1,5 @@
-Rally Iteration Scope Change
-============================
+Rally Recently Changed
+======================
 
 ![Title](https://raw.github.com/RallyApps/RecentlyChanged/master/screenshots/title-screenshot.png)
 
